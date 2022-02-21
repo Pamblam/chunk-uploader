@@ -1,4 +1,6 @@
 
+//https://deliciousbrains.com/using-javascript-file-api-to-avoid-file-upload-limits/
+
 class ChunkUploader{
 	
 	constructor(file, url, chunk_size){
